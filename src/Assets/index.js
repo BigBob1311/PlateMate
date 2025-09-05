@@ -59,4 +59,4 @@ export {
 };
 
 // Icons used on the MainScreen bottom ribbon. Add/remove here to update UI.
-export const mainScreenIcons = [Home, Rocket, Person, Heart, MenuBook];
+export const mainScreenIcons = [MenuBook, Home, Person, Heart, Rocket];
